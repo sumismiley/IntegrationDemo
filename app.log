@@ -1,0 +1,28 @@
+2023-02-19 11:28:33,471  INFO [main] TestBase:25 - **********setup browser**********
+2023-02-19 11:28:35,466  INFO [main] Register:17 - navigate to https://demo.automationtesting.in/Register.html
+2023-02-19 11:29:08,053  INFO [main] Register:20 - enter first name
+2023-02-19 11:29:08,054  INFO [main] TestBase:89 - i am inside beforeFindBy methodnull
+2023-02-19 11:29:08,105  INFO [main] TestBase:96 - i am inside afterFindBy method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@placeholder="First Name"]]
+2023-02-19 11:29:08,296  INFO [main] Register:25 - enter last name
+2023-02-19 11:29:08,296  INFO [main] TestBase:89 - i am inside beforeFindBy methodnull
+2023-02-19 11:29:08,317  INFO [main] TestBase:96 - i am inside afterFindBy method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@placeholder="Last Name"]]
+2023-02-19 11:29:08,496  INFO [main] Register:30 - enter address
+2023-02-19 11:29:08,496  INFO [main] TestBase:89 - i am inside beforeFindBy methodnull
+2023-02-19 11:29:08,519  INFO [main] TestBase:96 - i am inside afterFindBy method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //textarea]
+2023-02-19 11:29:08,621  INFO [main] Register:35 - enter email
+2023-02-19 11:29:08,622  INFO [main] TestBase:89 - i am inside beforeFindBy methodnull
+2023-02-19 11:29:08,642  INFO [main] TestBase:96 - i am inside afterFindBy method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@type="email"]]
+2023-02-19 11:29:08,788  INFO [main] Register:40 - enter ph number
+2023-02-19 11:29:08,788  INFO [main] TestBase:89 - i am inside beforeFindBy methodnull
+2023-02-19 11:29:08,808  INFO [main] TestBase:96 - i am inside afterFindBy method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@type="tel"]]
+2023-02-19 11:29:08,940  INFO [main] Register:45 - click on male btn
+2023-02-19 11:29:08,941  INFO [main] TestBase:89 - i am inside beforeFindBy methodnull
+2023-02-19 11:29:08,979  INFO [main] TestBase:96 - i am inside afterFindBy method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@value="Male"]]
+2023-02-19 11:29:08,980  INFO [main] TestBase:103 - i am inside beforeClickOn method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@value="Male"]]
+2023-02-19 11:29:09,154  INFO [main] TestBase:110 - i am inside afterClickOn method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@value="Male"]]
+2023-02-19 11:29:09,155  INFO [main] Register:49 - click on hobby
+2023-02-19 11:29:09,156  INFO [main] TestBase:89 - i am inside beforeFindBy methodnull
+2023-02-19 11:29:09,178  INFO [main] TestBase:96 - i am inside afterFindBy method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@value="Cricket"]]
+2023-02-19 11:29:09,187  INFO [main] TestBase:103 - i am inside beforeClickOn method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@value="Cricket"]]
+2023-02-19 11:29:09,267  INFO [main] TestBase:110 - i am inside afterClickOn method[[ChromeDriver: chrome on WINDOWS (30c0046a22d84a532d65b2cbfde274c0)] -> xpath: //input[@value="Cricket"]]
+2023-02-19 11:29:09,275  INFO [main] TestBase:47 - ***********close the browser************
